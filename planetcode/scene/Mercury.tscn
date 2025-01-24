@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://sprite/mercury.png" type="Texture" id=1]
+
+[node name="Mercury" type="Sprite"]
+position = Vector2( 139, 112 )
+scale = Vector2( 0.3, 0.3 )
+texture = ExtResource( 1 )
